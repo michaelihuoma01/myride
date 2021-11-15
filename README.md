@@ -1,2 +1,2 @@
 # myride
-Car rental app 
+Car rental app built with flutter
